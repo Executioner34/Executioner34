@@ -7,7 +7,7 @@
   <li>📫 How to reach me: <a href='https://t.me/Executioner34' target="_blank">Telegram</a></li>
 </ul>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Executioner34&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Executioner34&show_icons=true&theme=vue)
 
 <!--
 **Executioner34/Executioner34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

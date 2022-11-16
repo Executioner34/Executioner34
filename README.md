@@ -11,6 +11,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Executioner34&show_icons=true&theme=vue)
 
+![](https://komarev.com/ghpvc/?username=Executioner34)
+
 [![codewars](https://www.codewars.com/users/Executioner34/badges/small)](https://www.codewars.com/users/Executioner34)
 
 <!--

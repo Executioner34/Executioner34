@@ -1,7 +1,10 @@
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=15F731&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Alexander" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=15F731&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I’m+Alexander" alt="Typing SVG" /></a>
 <h4>Vue front-end developer with no commercial experience, but with team experience</h3>
 <ul>
-  <li>My most important project</li>
+  <li>🔭My most important <a href='https://github.com/Executioner34/Panfilov.Academy-Module5' target="_blank">project</a></li>
+  <li>🌱 I’m currently learning algorithms</li>
+  <li>📄 I’m regularly read articles on <a href='https://habr.com/ru/feed/' target="_blank">HABR</a></li>
+  <li>📫 How to reach me: <a href='https://t.me/Executioner34' target="_blank">Telegramm</a></li>
 </ul>
 
 <!--

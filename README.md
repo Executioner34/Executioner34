@@ -4,8 +4,10 @@
   <li>🔭My most important <a href='https://github.com/Executioner34/Panfilov.Academy-Module5' target="_blank">project</a></li>
   <li>🌱 I’m currently learning algorithms</li>
   <li>📄 I’m regularly read articles on <a href='https://habr.com/ru/feed/' target="_blank">HABR</a></li>
-  <li>📫 How to reach me: <a href='https://t.me/Executioner34' target="_blank">Telegramm</a></li>
+  <li>📫 How to reach me: <a href='https://t.me/Executioner34' target="_blank">Telegram</a></li>
 </ul>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Executioner34&show_icons=true&theme=radical)
 
 <!--
 **Executioner34/Executioner34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,6 +7,7 @@
   <li>📫 How to reach me: <a href='https://t.me/Executioner34' target="_blank">Telegram</a></li>
 </ul>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Executioner34)](https://github.com/Executioner34/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Executioner34&show_icons=true&theme=vue)
 
 <!--

@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Executioner34)](https://github.com/Executioner34/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Executioner34&show_icons=true&theme=vue)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Executioner34&show_icons=true&theme=vue)
 
 [![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/Executioner34)
 
